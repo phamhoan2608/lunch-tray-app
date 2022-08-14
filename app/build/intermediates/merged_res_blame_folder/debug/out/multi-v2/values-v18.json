@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\07.Git-Luvina\\Training-Android\\ESTool\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "com.example.lunchtray.app-mergeDebugResources-45:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\phamvanhoan\\.gradle\\caches\\transforms-3\\9e44d7c158707c0eea40691222c94c38\\transformed\\appcompat-1.4.1\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\9fde5ac1a965450be76297afa1689623\\transformed\\appcompat-1.4.1\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

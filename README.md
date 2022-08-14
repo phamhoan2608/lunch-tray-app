@@ -18,8 +18,9 @@ Getting Started
 ---------------
 
 1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the app requirements
+2. 
+3. Open the project in Android Studio
+4. Complete the project in accordance with the app requirements
 
 Tips
 ----
